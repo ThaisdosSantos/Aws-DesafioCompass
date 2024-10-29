@@ -3,7 +3,7 @@
 1. Clone o repositório:
 
 ```
-git clone git clone https://github.com/ThaisdosSantos/Aws-DesafioCompass.git
+git clone https://github.com/ThaisdosSantos/Aws-DesafioCompass.git
 
 ```
 # Para o frontend
